@@ -1,4 +1,4 @@
-# spring-boot-exception-handling
+# Spring Boot Exception Handling
 Spring Boot Exception Handling sample
 
 
